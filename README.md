@@ -1,0 +1,2 @@
+# Event-Hub-Website
+Created an event hosting website aimed towards interaction and advertisement of various events happening in various college campuses across Bangalore. The website facilitated colleges to create their accounts on this platform in order to showcase technical, cultural and sports events taking place at their campus. The website also has a discussion forum for interactive purposes.
